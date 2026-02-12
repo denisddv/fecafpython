@@ -1,7 +1,3 @@
-Perfeito 👍 vou te entregar um README completo, profissional e pronto para GitHub, com cara de projeto universitário bem feito (isso costuma contar MUITO ponto).
-
-Você só precisa copiar e colar no README.md.
-
 🏠 Sistema de Orçamento de Aluguel
 📌 Descrição do Projeto
 
@@ -99,17 +95,6 @@ Escolha o tipo de imóvel
 
 O sistema solicitará as informações necessárias e exibirá o valor final do aluguel.
 
-🎥 Demonstração
-
-👉 Link do vídeo explicativo:
-(Adicionar link após gravação)
-
-👨‍💻 Autor
-
-Nome do aluno:
-Curso:
-Disciplina:
-Instituição:
 
 📚 Referências
 
